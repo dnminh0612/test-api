@@ -20,7 +20,12 @@ class ProductsTableSeeder extends Seeder
             ['Product 3', 'Đây là cái mô tả của sản phẩm', 3 ,100],
             ['Product 4', 'Đây là cái mô tả của sản phẩm', 6 ,100],
             ['Product 6', 'Đây là cái mô tả của sản phẩm', 2 ,100],
-            ['Product 6', 'Đây là cái mô tả của sản phẩm', 4 ,100],
+            ['Product 7', 'Đây là cái mô tả của sản phẩm', 4 ,100],
+            ['Product 8', 'Đây là cái mô tả của sản phẩm', 4 ,100],
+            ['Product 9', 'Đây là cái mô tả của sản phẩm', 4 ,100],
+            ['Product 10', 'Đây là cái mô tả của sản phẩm', 4 ,100],
+            ['Product 11', 'Đây là cái mô tả của sản phẩm', 4 ,100],
+            ['Product 12', 'Đây là cái mô tả của sản phẩm', 4 ,100],
         ];
 
         foreach ($products as $user) {
