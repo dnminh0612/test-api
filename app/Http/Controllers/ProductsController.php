@@ -8,6 +8,8 @@ use Illuminate\Http\Request;
 
 class ProductsController extends Controller
 {
+    private static $DEFAULT_LIMIT_RECORD_PER_PAGE = 10;
+    
     /**
      * Display a listing of the resource.
      *
@@ -15,8 +17,16 @@ class ProductsController extends Controller
      */
     public function index()
     {
-        $rs = Product::paginate();
-        return response()->json($rs);
+        $page = request('page') ?: 1;
+        $limit = request('limit') ?: self::$DEFAULT_LIMIT_RECORD_PER_PAGE;
+
+        Paginator::currentPageResolver(function () use ($page) {
+            return $page;
+        });
+
+        $result = Product::paginate($limit);
+        
+        return response()->json($result);
     }
 
     /**
