@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use App\Product;
 use App\User;
 use Illuminate\Http\Request;
+use Illuminate\Pagination\Paginator;
 
 class ProductsController extends Controller
 {
