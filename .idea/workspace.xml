@@ -2,7 +2,68 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e51566d-7d25-44bd-aeb4-0e3762856844" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ProductsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ProductsController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/database/seeds/ProductsTableSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/ProductsTableSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_files.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_files.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/egulias/email-validator/EmailValidator/EmailLexer.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/egulias/email-validator/EmailValidator/EmailLexer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/egulias/email-validator/EmailValidator/Parser/DomainPart.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/egulias/email-validator/EmailValidator/Parser/DomainPart.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/egulias/email-validator/EmailValidator/Parser/LocalPart.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/egulias/email-validator/EmailValidator/Parser/LocalPart.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/egulias/email-validator/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/egulias/email-validator/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/egulias/email-validator/phpunit.xml.dist" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/egulias/email-validator/phpunit.xml.dist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ManagesFrequencies.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ManagesFrequencies.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Container/Container.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Container/Container.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/MorphTo.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/MorphTo.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Database/Migrations/Migrator.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Database/Migrations/Migrator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/Grammar.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/Grammar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/MySqlGrammar.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/MySqlGrammar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SQLiteGrammar.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SQLiteGrammar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Application.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Application.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Testing/WithFaker.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Testing/WithFaker.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Notifications/Channels/MailChannel.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Notifications/Channels/MailChannel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Notifications/Messages/MailMessage.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Notifications/Messages/MailMessage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Queue/SerializesAndRestoresModelIdentifiers.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Queue/SerializesAndRestoresModelIdentifiers.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Validation/Validator.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Validation/Validator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/phpmd.xml" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/phpmd.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/CarbonInterval.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/CarbonInterval.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/CarbonPeriod.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/CarbonPeriod.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/cy.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/cy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/fil_PH.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/fil_PH.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ga.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ga.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/lt.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/lt.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/mr.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/mr.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ps.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ps.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/uk.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/uk.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Laravel/ServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Laravel/ServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Traits/Comparison.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Traits/Comparison.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Traits/Date.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Traits/Date.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Traits/Difference.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Traits/Difference.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Traits/Options.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Traits/Options.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Traits/Test.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Traits/Test.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Traits/Units.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Traits/Units.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Traits/Week.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Traits/Week.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Translator.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Translator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpunit/phpunit/.github/stale.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpunit/phpunit/ChangeLog-7.5.md" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpunit/phpunit/ChangeLog-7.5.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpunit/phpunit/phpunit" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpunit/phpunit/phpunit" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpunit/phpunit/phpunit.xsd" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpunit/phpunit/phpunit.xsd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpunit/phpunit/src/Framework/Constraint/Count.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpunit/phpunit/src/Framework/Constraint/Count.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpunit/phpunit/src/Framework/Constraint/IsEmpty.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpunit/phpunit/src/Framework/Constraint/IsEmpty.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpunit/phpunit/src/Framework/Constraint/StringStartsWith.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpunit/phpunit/src/Framework/Constraint/StringStartsWith.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpunit/phpunit/src/Framework/TestResult.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpunit/phpunit/src/Framework/TestResult.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpunit/phpunit/src/Runner/Version.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpunit/phpunit/src/Runner/Version.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpunit/phpunit/tests/unit/Framework/Constraint/CountTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpunit/phpunit/tests/unit/Framework/Constraint/CountTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpunit/phpunit/tests/unit/Framework/Constraint/IsEmptyTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpunit/phpunit/tests/unit/Framework/Constraint/IsEmptyTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpunit/phpunit/tests/unit/Framework/Constraint/StringStartsWithTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpunit/phpunit/tests/unit/Framework/Constraint/StringStartsWithTest.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,8 +101,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/database/seeds/ProductsTableSeeder.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="21" column="71" lean-forward="true" selection-start-line="21" selection-start-column="71" selection-end-line="21" selection-end-column="71" />
+            <state relative-caret-position="179">
+              <caret line="24" column="63" lean-forward="true" selection-start-line="24" selection-start-column="63" selection-end-line="24" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -61,8 +122,31 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/ProductsController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1003">
-              <caret line="62" column="42" selection-start-line="62" selection-start-column="42" selection-end-line="62" selection-end-column="42" />
+            <state relative-caret-position="357">
+              <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/app.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="887">
+              <caret line="229" lean-forward="true" selection-start-line="229" selection-end-line="229" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/composer.lock">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -70,7 +154,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/routes/web.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
+            <state>
               <caret line="31" column="86" selection-start-line="31" selection-start-column="86" selection-end-line="31" selection-end-column="86" />
             </state>
           </provider>
@@ -79,17 +163,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/routes/api.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
+            <state>
               <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Product.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="53" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -100,6 +175,7 @@
     <findStrings>
       <find>utf8mb4</find>
       <find>Product</find>
+      <find>Mô tả: Thiên Gà, Mô tả: Thiên Gà</find>
     </findStrings>
     <replaceStrings>
       <replace>Thiên Gà, Thiên Gà, Thiên Gà,</replace>
@@ -135,9 +211,11 @@
         <option value="$PROJECT_DIR$/config/database.php" />
         <option value="$PROJECT_DIR$/database/migrations/2019_07_17_161159_create_products_table.php" />
         <option value="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/ProductsController.php" />
         <option value="$PROJECT_DIR$/routes/web.php" />
         <option value="$PROJECT_DIR$/routes/api.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/ProductsController.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/config/app.php" />
         <option value="$PROJECT_DIR$/database/seeds/ProductsTableSeeder.php" />
       </list>
     </option>
@@ -226,6 +304,11 @@
       <path value="$PROJECT_DIR$/vendor/filp/whoops" />
       <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
       <path value="$PROJECT_DIR$/vendor/yajra/laravel-datatables-oracle" />
+      <path value="$PROJECT_DIR$/vendor/lcobucci/jwt" />
+      <path value="$PROJECT_DIR$/vendor/namshi/jose" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/vendor/tymon/jwt-auth" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php56" />
     </include_path>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -239,7 +322,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -256,14 +338,12 @@
               <item name="test" type="b2602c69:ProjectViewProjectNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Providers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="test" type="b2602c69:ProjectViewProjectNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="Http" type="462c0819:PsiDirectoryNode" />
-              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="test" type="b2602c69:ProjectViewProjectNode" />
@@ -300,6 +380,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -307,10 +388,15 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/Http/Controllers" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\New folder\test\app\Http\Controllers" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -368,18 +454,20 @@
       <workItem from="1563766709829" duration="534000" />
       <workItem from="1563767475979" duration="38000" />
       <workItem from="1563784920868" duration="345000" />
-      <workItem from="1563851173165" duration="254000" />
+      <workItem from="1563851173165" duration="853000" />
+      <workItem from="1563853008241" duration="3000" />
+      <workItem from="1563853669649" duration="2327000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39239000" />
+    <option name="totallyTimeSpent" value="42168000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24413647" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24946696" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -394,12 +482,34 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.26218852" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.24485373" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.11513859" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24946696" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.96424705" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" visible="true" weight="0.11513859" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -588,10 +698,10 @@
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/10cd9488-a0af-4545-8379-7d81fe55f6de/console.sql">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/database/seeds/ProductsTableSeeder.php">
+    <entry file="file://$PROJECT_DIR$/app/Product.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="21" column="71" lean-forward="true" selection-start-line="21" selection-start-column="71" selection-end-line="21" selection-end-column="71" />
+        <state relative-caret-position="170">
+          <caret line="10" column="53" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="53" />
         </state>
       </provider>
     </entry>
@@ -607,29 +717,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/ProductsController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1003">
-          <caret line="62" column="42" selection-start-line="62" selection-start-column="42" selection-end-line="62" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/web.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="31" column="86" selection-start-line="31" selection-start-column="86" selection-end-line="31" selection-end-column="86" />
+        <state relative-caret-position="357">
+          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/routes/api.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
+        <state>
           <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Product.php">
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="53" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="53" />
+        <state>
+          <caret line="31" column="86" selection-start-line="31" selection-start-column="86" selection-end-line="31" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.lock">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="887">
+          <caret line="229" lean-forward="true" selection-start-line="229" selection-end-line="229" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeds/ProductsTableSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="24" column="63" lean-forward="true" selection-start-line="24" selection-start-column="63" selection-end-line="24" selection-end-column="63" />
         </state>
       </provider>
     </entry>
