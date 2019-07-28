@@ -11,7 +11,7 @@ use Illuminate\Pagination\Paginator;
 class ProductsController extends Controller
 {
     private static $DEFAULT_LIMIT_RECORD_PER_PAGE = 10;
-    
+
     /**
      * Display a listing of the resource.
      *
@@ -26,8 +26,8 @@ class ProductsController extends Controller
             return $page;
         });
 
-        $result = Product::paginate($limit);
-        
+        $result = Product::orderBy('id', 'desc')->paginate($limit);
+
         return response()->json($result);
     }
 
