@@ -49,16 +49,15 @@ class ProductsController extends Controller
      */
     public function store(Request $request)
     {
-//        $data = $request->json->all();
-        return response()->json($request);
-//        $res = Product::create($request);
-//        if ($res){
-//            return response()->json('ngon');
-//        }
-//        else{
-//            return response()->json('hư');
-//        }
-
+        $data = $request->all();
+        $product =  new Product([
+            'name' => $data[0]->productName,
+            'description' => $data[0]->description,
+            'quantity' => $data[0]->quantity,
+            'price' => $data[0]->price,
+        ]);
+        $product->save();
+        return response()->json('ngon');
     }
 
     /**
