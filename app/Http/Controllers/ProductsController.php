@@ -49,8 +49,8 @@ class ProductsController extends Controller
      */
     public function store(Request $request)
     {
-        $data = $request->json->all();
-        return response()->json($data);
+//        $data = $request->json->all();
+        return response()->json($request);
 //        $res = Product::create($request);
 //        if ($res){
 //            return response()->json('ngon');
