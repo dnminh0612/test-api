@@ -12,6 +12,7 @@
         "fideloper/proxy": "^4.0",
         "laravel/framework": "5.8.*",
         "laravel/tinker": "^1.0",
+        "luthfi/formfield": "^2.0",
         "nesbot/carbon": "^2.21",
         "tymon/jwt-auth": "1.0.0-rc.4.1",
         "yajra/laravel-datatables-oracle": "^9.4"
