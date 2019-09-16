@@ -11,7 +11,7 @@
   --blue: #3490dc;
   --indigo: #6574cd;
   --purple: #9561e2;
-  --pink: #f66d9b;
+  --pink: #f66D9b;
   --red: #e3342f;
   --orange: #f6993f;
   --yellow: #ffed4a;
@@ -540,7 +540,7 @@ mark,
 
 code {
   font-size: 87.5%;
-  color: #f66d9b;
+  color: #f66D9b;
   word-break: break-word;
 }
 
@@ -10644,20 +10644,12 @@ a.text-dark:focus {
   }
 }
 
-.loading {
-  min-height: 1rem;
-  position: relative;
+.navbar ul {
+  list-style: none;
 }
 
-.loading:before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  background-image: url(/images/loading.gif?d5b3fe95080516adc88ab2acb2c4f1d7);
-  background-size: contain;
-  width: 100%;
-  height: 100%;
-  z-index: 999;
+.navbar ul li {
+  display: inline-block;
+  padding-right: 15px;
 }
 

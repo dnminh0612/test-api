@@ -16819,7 +16819,7 @@ return jQuery;
   var undefined;
 
   /** Used as the semantic version number. */
-  var VERSION = '4.17.13';
+  var VERSION = '4.17.15';
 
   /** Used as the size to enable large array optimizations. */
   var LARGE_ARRAY_SIZE = 200;
@@ -49197,8 +49197,6 @@ module.exports = function(module) {
  */
 __webpack_require__(/*! ./bootstrap */ "./resources/js/bootstrap.js");
 
-__webpack_require__(/*! ./custom */ "./resources/js/custom.js");
-
 window.Vue = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.common.js");
 /**
  * The following block of code may be used to automatically register your
@@ -49350,17 +49348,6 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-/***/ "./resources/js/custom.js":
-/*!********************************!*\
-  !*** ./resources/js/custom.js ***!
-  \********************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-
-
-/***/ }),
-
 /***/ "./resources/sass/app.scss":
 /*!*********************************!*\
   !*** ./resources/sass/app.scss ***!
@@ -49379,8 +49366,8 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! F:\wamp64\www\test-api\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! F:\wamp64\www\test-api\resources\sass\app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! /Users/nhatminh/Desktop/www/Test/resources/js/app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! /Users/nhatminh/Desktop/www/Test/resources/sass/app.scss */"./resources/sass/app.scss");
 
 
 /***/ })

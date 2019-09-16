@@ -1,71 +1,21 @@
 @extends('layouts.app')
 
 @section('content')
-    <div class="container">
-        <div class="row list-product">
-
-        </div>
-    </div>
+<div class="container">
+   <div class="row">
+       @foreach($products as $product)
+           <div class="col-12 col-lg-4">
+               <div class="card" >
+                   <img src="{{ Storage::url($product->image) }}" class="card-img-top w-100" alt="...">
+                   <div class="card-body">
+                       <h5 class="card-title">{{ $product->name }}</h5>
+                       <p class="card-text text-danger">{{ $product->price }}</p>
+                       <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                       <a href="#" class="btn btn-primary">Go somewhere</a>
+                   </div>
+               </div>
+           </div>
+       @endforeach
+   </div>
+</div>
 @endsection
-@push('scripts')
-    <script type="text/javascript">
-        $(function () {
-            $.ajax({
-                type: "Get",
-                url: 'https://minh-test-api.herokuapp.com/api/products/list',
-                beforeSend: function () {
-                    loadProduct(Array(8).fill(undefined));
-                },
-                complete: function () {
-                    setTimeout(function () {
-                        $('.card  div').removeClass('loading');
-                    }, 1000);
-                },
-                success: function (response) {
-                    loadProduct(response.data);
-                }
-            });
-        });
-
-        function loadProduct(data) {
-            $('.list-product').html('');
-            $.each(data, function (i, item) {
-                // console.log(item.id);
-                $('.list-product').append(productTemplate(item));
-            });
-        };
-
-        function productTemplate(product) {
-            if (product != undefined){
-                html = '<div class="col-6 col-md-4 col-lg-3 mt-4 ">';
-                html += '<div class="card ">';
-                html += '  <div class="card-header p-0"><img class="w-100" height="150" src="https://mdbootstrap.com/img/Mockups/Lightbox/Thumbnail/img%20(67).jpg">';
-                html += '  </div>';
-                html += '  <div class="card-body">';
-                html += ' <div class="card-title ">' + product.name;
-
-                html += '  </div>';
-                html += '<div class="card-text">';
-                html += '  </div>';
-                html += '  </div>';
-                html += ' </div>';
-                html += ' </div>';
-            }else {
-                html = '<div class="col-6 col-md-4 col-lg-3 mt-4 ">';
-                html += '<div class="card ">';
-                html += '  <div class="card-header p-0"><img class="w-100" height="150" src="../images/loading.gif" alt="product">';
-                html += '  </div>';
-                html += '  <div class="card-body">';
-                html += ' <div class="card-title loading w-50">';
-
-                html += '  </div>';
-                html += '<div class="card-text loading">';
-                html += '  </div>';
-                html += '  </div>';
-                html += ' </div>';
-                html += ' </div>';
-            }
-            return html;
-        }
-    </script>
-@endpush

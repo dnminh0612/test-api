@@ -12,15 +12,9 @@
 */
 
 Auth::routes();
-Auth::routes();
 
 Route::get('/', 'HomeController@index')->name('home');
 
-Auth::routes();
-
-Route::get('/home', 'HomeController@index')->name('home');
-
-Route::get('/minh', 'TestController@index')->name('minh');
-Route::post('/minh/add', 'TestController@store')->name('minh.create');
-Route::get('/minh/getListUsers', 'TestController@getListUsers')->name('minh.getlist');
-
+Route::group(['prefix' => 'admin'], function () {
+    Voyager::routes();
+});
